@@ -2,11 +2,9 @@ Begin with the the game project I Hate My Job for Mobile and desktop using Unity
 Storage to be allocated on cloud servies provider AWS and its toolset.
 
 Techs:
-React,
-Restful API,
-OracleDB/MongoDB/noSQL,
-Jenkins,
-Springboot,
 C# with visual studio,
-Unity game dev environment
+Unity game dev environment,
+Jenkins for CI/CD,
+React,
+OracleDB/MongoDB/noSQL,
 ----END----

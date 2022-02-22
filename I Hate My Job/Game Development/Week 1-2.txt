@@ -1,0 +1,6 @@
+Jan 20th to Feb 7th
+
+1) Brain storming
+2) Requirement gathering 
+3) Software and hw req analysis
+4) Setting up DevOps Environment

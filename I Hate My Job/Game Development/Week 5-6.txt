@@ -12,4 +12,9 @@ Development start date.
 
 Feb 23rd
 
-Plan blue print ready
+Plan blue print ready.
+
+Feb 24th
+
+Making changes to first/existing mini game: Vacc em all
+Deciding mnemonomics, file structure and name conventions.

@@ -18,3 +18,7 @@ Feb 24th
 
 Making changes to first/existing mini game: Vacc em all
 Deciding mnemonomics, file structure and name conventions.
+
+28/02/22
+Exploring AWS Solutions for storage and data mobility.
+----End----

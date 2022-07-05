@@ -1,0 +1,21 @@
+AWS-
+Virtual Machine
+EC2
+codecommit
+S3 storage buckets
+
+Unity-
+Unity 3d engine
+Visual studio with unity integration plugin
+Unity Ads
+
+Released on 
+Google play store 
+https://play.google.com/store/apps/details?id=com.MARSStudios.ohmyjobPrelude
+
+and 
+
+itch.io
+https://marsstudios.itch.io/oh-my-job
+
+Target to make this gome competely on virtual platform is ssuccessfully executed.
